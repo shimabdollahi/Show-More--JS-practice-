@@ -1,0 +1,11 @@
+.boxes{
+    display: flex;
+    /* gap: 5px; */
+}
+.box{
+    background-color: aquamarine;
+    /* width: calc((100% - 15px)/4); */
+    width: 25%;
+    margin: 2px;
+    font-size: 10px;
+}
